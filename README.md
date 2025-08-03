@@ -5,5 +5,5 @@ i## Olá meu nome é Rubson!👋
     
 ##Ferramentas e tecnologias
 <div>
-            <img height="180em"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+            <img height="120em"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
    <div></div>       
