@@ -1,16 +1,16 @@
-# 👩🏻‍💻 Rubson sousa
+# 👩🏻‍💻 Rubson Sousa
 
-**`Desenvolvedor Back-end`**
+**`Back-end Developer`**
 
-Olá! Sou Rubson Sousa, estudante de Análise e Desenvolvimento de Sistemas na Uninter.
+Hello! I'm Rubson Sousa, a Computer Systems Analysis and Development student at Uninter.
 
-Minha paixão é o desenvolvimento back-end e banco de dados. Atualmente, estou construindo pequenos projetos com HTML, CSS e JavaScript para solidificar minhas bases, enquanto me aprofundo em Java através do curso da Udemy. Meus estudos também abrangem MySQL e SQL Server, preparando-me para criar projetos mais robustos.
+My passion lies in **back-end development** and **databases**. I'm currently building small projects using **HTML**, **CSS**, and **JavaScript** to strengthen my foundations, while also deepening my knowledge of **Java** through a Udemy course. My studies also cover **MySQL** and **SQL Server**, which are preparing me to create more robust applications.
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos.
+I am always looking for new challenges and opportunities to apply and expand my knowledge.
 
 ---
 
-### 💻 Tecnologias
+### 💻 Technologies
 
 <table>
   <tr>
@@ -39,28 +39,28 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir 
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="190" 
-    src="https://github-readme-stats.vercel.app/api?username=Rubsons14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Rubsons14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-<img 
-  align="left" 
-  alt="Top Languages" 
-  height="190" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubsons14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&size_weight=0.5&count_weight=0.5" 
-/>
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="190" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubsons14&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&size_weight=0.5&count_weight=0.5" 
+  />
 </p>
 
 <br clear="both">
 
 ---
 
-### 🔗 Conecte-se Comigo
+### 🔗 Connect With Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubson-sousa-817244202/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.rubson01@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
